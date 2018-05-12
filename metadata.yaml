@@ -1,0 +1,37 @@
+_repo: A-Dog-with-a-Bad-Name_21038
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reed, Talbot Baines
+    birthdate: 1852
+    deathdate: 1893
+    gutenberg_agent_id: '9657'
+    url: http://www.gutenberg.org/2009/agents/9657
+    wikipedia: http://en.wikipedia.org/wiki/Talbot_Baines_Reed
+description: The hero of the story tries to atone for an evil deed he has committed.
+  Eventually he becomes a private librarian to a country gentleman, and at the conclusion,
+  is appointed to the control of a great public library in the north.
+gutenberg_issued: '2007-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Sports -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Honesty -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Sports accidents -- Juvenile fiction'
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+- !lcsh 'Librarians -- Juvenile fiction'
+title: A Dog with a Bad Name
+url: http://www.gutenberg.org/ebooks/21038
