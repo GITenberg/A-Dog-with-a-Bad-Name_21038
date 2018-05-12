@@ -14,6 +14,8 @@ creator:
 description: The hero of the story tries to atone for an evil deed he has committed.
   Eventually he becomes a private librarian to a country gentleman, and at the conclusion,
   is appointed to the control of a great public library in the north.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21038#A-Dog-with-a-Bad-Name
 gutenberg_issued: '2007-04-12'
 gutenberg_type: Text
 identifiers:
